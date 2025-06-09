@@ -1,5 +1,7 @@
 NecoArc Security: Иллюзорная Защита Вашей Системы
 
+![necoarc-security logo](https://github.com/user-attachments/assets/d2d243b1-8675-4c0f-ae20-36a8588fc773)
+
 
 "Бур-р-ряк! Я Неко Арк, и я здесь чтобы защитить твою систему от всяких бяк!"
 Что Это Такое?
